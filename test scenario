@@ -1,0 +1,4 @@
+Authentication:
+    - Admin authentication
+    - Vendor authentication
+    - Web authentication

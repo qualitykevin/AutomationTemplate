@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "outDir": "./dist"
+  },
+  "include": [
+    "tests/**/*.ts",
+    "modules/**/*.ts",
+    "web_components/**/*.ts"
+  ]
+}
